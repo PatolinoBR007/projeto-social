@@ -1,0 +1,12 @@
+@charset "UTF-8";
+* {
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+body {
+    background: whitesmoke url(../imagens/fundo-madeira.jpg) no-repeat fixed center bottom;
+}
+div#cell{
+    text-align: center;
+}
